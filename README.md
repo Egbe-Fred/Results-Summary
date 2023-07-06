@@ -21,5 +21,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Website - [DEMO](resultsumarrydemo.netlify.app)
+- Website - [DEMO](https://resultsumarrydemo.netlify.app)
 - Frontend Mentor - [@Egbe-Fred](https://www.frontendmentor.io/profile/Egbe-Fred)
